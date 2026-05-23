@@ -4,30 +4,30 @@ people:
   - name: Ethan Mollick
     rss:
       - https://www.oneusefulthing.org/feed
-    reddit: true
+    reddit: false
 
   - name: Andrew Ng
     rss:
       - https://www.deeplearning.ai/the-batch/feed/
-    reddit: true
+    reddit: false
 
   - name: Andrej Karpathy
     rss:
       - https://www.youtube.com/feeds/videos.xml?channel_id=UCH-kyS9H7NDoeAz6CZhDiDQ
-    reddit: true
+    reddit: false
 
   - name: Jim Fan
     rss:
       - https://www.youtube.com/feeds/videos.xml?channel_id=UCj5i4xBFQDloBNW2GRxfYqA
-    reddit: true
+    reddit: false
 
   - name: Cassie Kozyrkov
     rss:
       - https://medium.com/feed/@kozyrkov
-    reddit: true
+    reddit: false
 
   - name: Yann LeCun
-    reddit: true
+    reddit: false
 
   - name: Swyx & Alessio
     rss:
@@ -40,7 +40,7 @@ people:
     reddit: false
 
   - name: Allie K. Miller
-    reddit: true
+    reddit: false
 
   - name: Lenny Rachitsky
     rss:
