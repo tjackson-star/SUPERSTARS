@@ -1,0 +1,49 @@
+to_email: "you@youremail.com"  # <-- change this
+
+people:
+  - name: Ethan Mollick
+    rss:
+      - https://www.oneusefulthing.org/feed
+    reddit: true
+
+  - name: Andrew Ng
+    rss:
+      - https://www.deeplearning.ai/the-batch/feed/
+    reddit: true
+
+  - name: Andrej Karpathy
+    rss:
+      - https://www.youtube.com/feeds/videos.xml?channel_id=UCH-kyS9H7NDoeAz6CZhDiDQ
+    reddit: true
+
+  - name: Jim Fan
+    rss:
+      - https://www.youtube.com/feeds/videos.xml?channel_id=UCj5i4xBFQDloBNW2GRxfYqA
+    reddit: true
+
+  - name: Cassie Kozyrkov
+    rss:
+      - https://medium.com/feed/@kozyrkov
+    reddit: true
+
+  - name: Yann LeCun
+    reddit: true
+
+  - name: Swyx & Alessio
+    rss:
+      - https://www.latent.space/feed
+    reddit: false
+
+  - name: Rowan Cheung
+    rss:
+      - https://www.therundown.ai/feed
+    reddit: false
+
+  - name: Allie K. Miller
+    reddit: true
+
+  - name: Lenny Rachitsky
+    rss:
+      - https://www.lennysnewsletter.com/feed
+      - https://feeds.transistor.fm/lenny-podcast
+    reddit: false
